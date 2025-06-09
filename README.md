@@ -1,4 +1,4 @@
-# Hi there! I'm Siddhant 👋
+# Hi there! I'm Siddhant Shreyans Mishrikotkar Kalamkar Jain  👋
 
 ### 🚀 About Me
 I am a passionate **Programmer** with a strong background in **C, C++, C#, Java **, and a variety of other languages. I have hands-on experience managing multiple projects while adapting quickly to diverse environments. I'm currently expanding my skill set with **Core Java**, **C#**, **Unity**, and **Rhino 3D**. Lifelong learning and personal development drive me to stay updated with industry trends and emerging technologies.
